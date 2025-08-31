@@ -1,6 +1,6 @@
 # Career Mentor Bot – Open-Source AI Assistant
 
-Try it out: Career Mentor[https://careermentor-xjhr.onrender.com/]
+Try it out: (Career Mentor)[https://careermentor-xjhr.onrender.com/]
 
 ## 1. AI Assistant Overview
 
